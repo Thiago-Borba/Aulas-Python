@@ -1,34 +1,34 @@
 codigo,nome
 a2,Principal objectivo de compra
-a3,Frequência de visita à loja
+a3,FrequÃªncia de visita Ã  loja
 c1a,Acessibilidade
-c1b,Horário de abertura
-c1c,Condições de parqueamento
-c1d,Limpeza e arrumação da loja
-c1e,Aspecto global das secções
-c1f,Localização secções dentro loja
-c1g,Sinalética secções e artigos
-c1h,Exposição dos artigos
-c1i,Preço artigos alimentares
-c1j,Preço artigos não-alimentares
+c1b,HorÃ¡rio de abertura
+c1c,CondiÃ§Ãµes de parqueamento
+c1d,Limpeza e arrumaÃ§Ã£o da loja
+c1e,Aspecto global das secÃ§Ãµes
+c1f,LocalizaÃ§Ã£o secÃ§Ãµes dentro loja
+c1g,SinalÃ©tica secÃ§Ãµes e artigos
+c1h,ExposiÃ§Ã£o dos artigos
+c1i,PreÃ§o artigos alimentares
+c1j,PreÃ§o artigos nÃ£o-alimentares
 c1k,Variedade de artigos alimentares
-c1l,Variedade de artigos não-alimentares
-c1m,Qualidade dos artigos alimentares perecíveis
-c1n,Qualidade dos artigos alimentares não perecíveis
-c1o,Qualidade dos artigos não-alimentares
+c1l,Variedade de artigos nÃ£o-alimentares
+c1m,Qualidade dos artigos alimentares perecÃ­veis
+c1n,Qualidade dos artigos alimentares nÃ£o perecÃ­veis
+c1o,Qualidade dos artigos nÃ£o-alimentares
 c1p,Disponibilidade dos artigos
-c1qInformação,sobre preço artigos
-c1r,Informação sobre características produtos
+c1q,InformaÃ§Ã£o sobre preÃ§o artigos
+c1r,InformaÃ§Ã£o sobre caracterÃ­sticas produtos
 c1s,Atendimento
-c1t,Assistência técnica pós-venda
-c1u,Promoções
+c1t,AssistÃªncia tÃ©cnica pÃ³s-venda
+c1u,PromoÃ§Ãµes
 c1v,Aspecto do uniforme colaboradores
-c1w,Utilização carro de compras
+c1w,UtilizaÃ§Ã£o carro de compras
 c1x,Tempo espera nas caixas
-c1_glo,Qual a sua satisfação global?
+c1_glo,Qual a sua satisfaÃ§Ã£o global?
 c2a,Atendimento pessoal
-c2b,Atendimento telefónico
-c2c,Esclarecimento técnico
+c2b,Atendimento telefÃ³nico
+c2c,Esclarecimento tÃ©cnico
 c2d,Aprumo
 c2e,Cortesia
 c2f,Profissionalismo
